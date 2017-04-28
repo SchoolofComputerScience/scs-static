@@ -1,0 +1,8 @@
+{
+  "name": "scs-static",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"currently no tests\" && exit 0"
+  },
+  "repository": "https://github.com/SchoolofComputerScience/scs-static.git"
+}
